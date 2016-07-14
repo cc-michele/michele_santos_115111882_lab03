@@ -9,10 +9,11 @@ public class Leitor {
 	public static int leInteiro() {
 
 		int inteiro = input.nextInt();
-		 input.nextLine();
+		input.nextLine();
 		return inteiro;
 
 	}
+
 	public static double leDouble() {
 
 		double leDouble = input.nextDouble();
