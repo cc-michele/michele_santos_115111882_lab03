@@ -1,7 +1,7 @@
 package lab03;
 
 import java.util.Scanner;
-
+/* 115111882 - Michele Santos Memoria Lab 03 - Turma 01 */
 public class Leitor {
 
 	public static Scanner input = new Scanner(System.in);
