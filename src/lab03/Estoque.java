@@ -1,5 +1,5 @@
 package lab03;
-
+/* 115111882 - Michele Santos Memoria Lab 03 - Turma 01 */
 public class Estoque {
 	private final int capacidade_inicial = 1;
 	private Produto[] listaDeProdutos;
